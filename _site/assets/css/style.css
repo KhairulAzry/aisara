@@ -9,6 +9,24 @@ body {
   color: #555;
 }
 
+.white {
+	color:#fff !important;
+}
+
 .bg-aisara {
-	background-image: linear-gradient(45deg, #d4145a, #fbb03b) !important;
+	background: #E93F3B; 
+}
+
+.nav-link-aisara {
+	color:#fff !important;
+}
+
+.nav-link-aisara:hover {
+	color:#000 !important;
+}
+
+.footer-aisara {
+	font-size: 0.8em !important;
+ 	line-height: 1 !important; 
+	color: #fff !important;
 }
