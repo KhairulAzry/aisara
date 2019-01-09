@@ -76,7 +76,7 @@ body {
 /* Link style
 /* ------------------------------ */
 a {
-    color: #ed145b;
+    color: #f44336;
 }
 a,
 a > * {
@@ -683,14 +683,14 @@ thead {
     color: #03a9f4 !important; /*theme primary color*/
 }
 .brand-color.darken-2 {
-    color: #0288d1 !important;
+    color: #f44336 !important;
 }
 .brand-bg {
     background-color: #03a9f4 !important; /*theme primary background color*/
 }
 
 .brand-bg.darken-2 {
-    background-color: #0288d1 !important;
+    background-color: #f44336 !important;
 }
 
 .brand-hover:hover {
@@ -707,7 +707,7 @@ thead {
 }
  
 .pink {
-    background-color: #ed145b !important;
+    background-color: #f44336 !important;
 }
 .white-bg {
     background-color: #fff !important;
@@ -739,6 +739,10 @@ thead {
 }
 .dark-bg.lighten-4 {
     background-color: #373a3d !important;
+}
+
+.aisara-bg {
+    background-image: url("assets/img/aisarabg.jpg");
 }
 
 .border-top {

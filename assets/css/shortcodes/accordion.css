@@ -25,10 +25,10 @@ Feature Accordion
 
 /*color change*/
 .feature-accordion.brand-accordion .panel-title a{
-    background-color: #03a9f4;
+    background-color: #f44336;
 }
 .feature-accordion.pink-accordion .panel-title a{
-    background-color: #ed145b;
+    background-color: #f44336;
 }
 .feature-accordion.purple-accordion .panel-title a{
     background-color: #673ab7;
@@ -112,16 +112,16 @@ Flat Accordion
 }
 .flat-accordion .panel-title a{
     display: block;
-    color: #03a9f4;
+    color: #f44336;
     padding: 10px 0;
 }
 
 /*color change*/
 .flat-accordion.brand-accordion .panel-title a{
-    color: #03a9f4;
+    color: #f44336;
 }
 .flat-accordion.pink-accordion .panel-title a{
-    color: #ed145b;
+    color: #f44336;
 }
 /*add any color you wish with .(colorName)-accordion class*/
 

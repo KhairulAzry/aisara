@@ -80,7 +80,7 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
 }
 
 .brand-bg.darken-2 {
-    background-color: #0288d1 !important;
+    background-color: #f44336 !important;
 }
 
 

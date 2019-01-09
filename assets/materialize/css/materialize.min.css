@@ -598,22 +598,22 @@
   color: #29b6f6 !important; }
 
 .light-blue {
-  background-color: #03a9f4 !important; }
+  background-color: #f44336 !important; }
 
 .light-blue-text {
-  color: #03a9f4 !important; }
+  color: #f44336 !important; }
 
 .light-blue.darken-1 {
-  background-color: #039be5 !important; }
+  background-color: #f44336 !important; }
 
 .light-blue-text.text-darken-1 {
-  color: #039be5 !important; }
+  color: #f44336 !important; }
 
 .light-blue.darken-2 {
-  background-color: #0288d1 !important; }
+  background-color: #f44336 !important; }
 
 .light-blue-text.text-darken-2 {
-  color: #0288d1 !important; }
+  color: #f44336 !important; }
 
 .light-blue.darken-3 {
   background-color: #0277bd !important; }
@@ -1959,7 +1959,7 @@ ul {
   list-style-type: none; }
 
 a {
-  color: #039be5;
+  color: #f44336;
   text-decoration: none; }
 
 .valign-wrapper {
@@ -2242,7 +2242,7 @@ td, th {
       .collection.pagination li a {
         padding: 0px 5px; }
       .collection.pagination li.active {
-        background-color: #03a9f4;
+        background-color: #f44336;
         color: #FFF; }
       .collection.pagination li:hover {
         background-color: #e1f5fe; }

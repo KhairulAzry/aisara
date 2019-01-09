@@ -19,7 +19,7 @@ Pricing Table
 .package-price {
     width: 112px;
     height: 112px;
-    background-color: #ed145b;
+    background-color: #f44336;
     color: #fff;
     margin: 0 auto;
     text-align: center;
@@ -65,7 +65,7 @@ Pricing Table
     background-color: #fff;
 }
 .pricing-table:hover .brand-hover {
-    background-color: #03a9f4;
+    background-color: #f44336;
     color: #fff;
 }
 
