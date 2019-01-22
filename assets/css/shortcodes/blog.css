@@ -105,10 +105,10 @@ Standard blog
 
 /*color setting*/
 .default-blog .entry-header .posted-in a {
-    background: #f44336;
+    background: #03a9f4;
 }
 .default-blog .entry-header .posted-in a:hover {
-    color: #f44336;
+    color: #03a9f4;
 }
 
 
@@ -168,7 +168,7 @@ Post Format Video
     z-index: 10;
 }
 .post-wrapper a.external-link:hover {
-    color: #f44336;
+    color: #03a9f4;
     background-color: #fff;
 }
 .post-wrapper a.external-link i{
@@ -182,7 +182,7 @@ Post Format Quote
 ------------------------------------------------------------*/
 .post-wrapper.format-quote {}
 .post-wrapper.format-quote .thumb-wrapper {
-    background: #f44336;
+    background: #03a9f4;
     color: #fff;
     text-align: center;
 }
@@ -343,7 +343,7 @@ Author Widget
     color: #999;
 }
 .author-social-links ul li a:hover{
-    color: #f44336;
+    color: #03a9f4;
 }
 
 
@@ -390,7 +390,7 @@ Popular/Rrecent Post Tab Widget
     color: #999;
 }
 .tt-popular-post .media-body h4 a:hover{
-    color: #f44336;
+    color: #03a9f4;
 }
 
 
@@ -419,7 +419,7 @@ Categories Widget
     color: #999;
 }
 .widget_categories ul li a:hover{
-    color: #f44336;
+    color: #03a9f4;
 }
 
 
@@ -446,7 +446,7 @@ Twitter Feed Widget
     font-weight: 700;
 }
 .widget_tt_twitter a:hover {
-    color: #f44336;
+    color: #ed145b;
 }
 
 .twitter-widget.owl-theme .owl-dots .owl-dot.active span, 
@@ -522,7 +522,7 @@ Blog Pagination
 .post-pagination>li>span:hover,
 .post-pagination>li>span.current {
     color: #fff;
-    background-color: #f44336;
+    background-color: #03a9f4;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -573,7 +573,7 @@ Single Blog Post
     color: #999;
 }
 .entry-meta li a:hover {
-    color: #f44336;
+    color: #03a9f4;
 }
 .entry-meta li i {
     margin-right: 5px;
@@ -599,7 +599,7 @@ Single Blog Post
     margin-right: 10px;
 }
 .entry-footer .post-tags a:hover{
-    color: #f44336;
+    color: #03a9f4;
 }
 
 
@@ -612,7 +612,7 @@ Post Share Button
     color: #999;
 }
 .entry-footer .share-post li a:hover{
-    color: #f44336;
+    color: #03a9f4;
 }
 
 
@@ -635,7 +635,7 @@ nav.single-post-navigation a{
 }
 nav.single-post-navigation a:hover{
     color: #fff;
-    background-color: #f44336;
+    background-color: #03a9f4;
     border: 1px solid transparent;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
@@ -684,7 +684,7 @@ Comments Tab
 .comments-tab .nav-tabs.nav-justified>.active>a:focus, 
 .comments-tab .nav-tabs.nav-justified>.active>a:hover {
     color: #fff;
-    background-color: #f44336;
+    background-color: #03a9f4;
     border: 1px solid transparent;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
@@ -720,14 +720,14 @@ Comments Tab
 .comments-tab input[type=url]:focus:not([readonly]),  
 .comments-tab textarea.materialize-textarea:focus:not([readonly]) {
     box-shadow: none;
-    border-color: #f44336;
+    border-color: #03a9f4;
 }
 .comments-tab .form-control {
     box-shadow: none;
     border: 1px solid #eee;
 }
 .comments-tab .form-control:focus {
-    border-color: #f44336;
+    border-color: #03a9f4;
 }
 .comments-tab textarea {
     padding: 12px;
@@ -757,7 +757,7 @@ Comments Tab
 }
 .comment-info h4{
     font-size: 18px;
-    color: #f44336;
+    color: #ed145b;
     font-weight: 700;
 }
 .comment-meta {
@@ -780,7 +780,7 @@ Comments Tab
 
 .comment-meta a {
     display: inline-block;
-    color: #f44336;
+    color: #ed145b;
 }
 .comment-meta a:hover {
     color: #202020;
@@ -792,7 +792,7 @@ Comments Tab
 }
 .comment-meta a:last-of-type::before {
     content: "";
-    background-color: #f44336;
+    background-color: #ed145b;
     height: 16px;
     width: 2px;
     position: absolute;
@@ -837,7 +837,7 @@ Latest News Card Style
 }
 .b-info .btn:hover,
 .b-info .btn:focus {
-    background-color: #f44336;
+    background-color: #03a9f4;
     border: 1px solid transparent;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
@@ -922,7 +922,7 @@ Latest News Card Style
 }
 .blog-carousel.owl-theme .owl-dots .owl-dot.active span, 
 .blog-carousel.owl-theme .owl-dots .owl-dot:hover span {
-    background: #f44336;
+    background: #03a9f4;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -978,7 +978,7 @@ Latest Featured News Style
     color: #202020; 
 }
 .latest-featured-news .entry-title a:hover{
-    color: #f44336; 
+    color: #03a9f4; 
 }
 .latest-featured-news .blog-content .entry-meta {
     margin-bottom: 18px;
@@ -988,7 +988,7 @@ Latest Featured News Style
     color: #999;
 }
 .latest-featured-news .blog-content a.readmore:hover {
-    color: #f44336;
+    color: #03a9f4;
 }
 
 
@@ -1034,7 +1034,7 @@ Featured List Style
 }
 .featured-list-news .entry-title a:hover,
 .featured-list-news .blog-content a.readmore:hover {
-    color: #f44336; 
+    color: #03a9f4; 
 }
 
 .featured-list-news .blog-content .entry-meta li {
@@ -1214,7 +1214,7 @@ Grid Blog Style
     color: #202020; 
 }
 .grid-news .entry-title a:hover{
-    color: #f44336; 
+    color: #03a9f4; 
 }
 .grid-news .entry-meta li {
     font-size: 12px;
@@ -1235,7 +1235,7 @@ Grid Blog Style
 }
 .grid-news .entry-footer ul li a:hover,
 .grid-news .entry-footer a.readmore:hover {
-    color: #f44336;
+    color: #03a9f4;
 }
 .grid-news .entry-footer ul li a i{
     margin-right: 5px;
@@ -1277,7 +1277,7 @@ Grid News Hover Style
 .grid-news-hover .post-date {
     width: 48px;
     height: 48px;
-    background: #f44336;
+    background: #ed145b;
     font-size: 20px;
     font-weight: 500;
     color: #fff;

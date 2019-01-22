@@ -225,7 +225,7 @@ Portfolio Filter
 /*Preset Color*/
 .brand-filter li:hover,
 .brand-filter li.active {
-    background-color: #f44336;
+    background-color: #03a9f4;
 }
 
 
@@ -274,7 +274,7 @@ Portfolio with title
 
 .portfolio-with-title .portfolio-title h2 a:hover,
 .portfolio-with-title .portfolio-title p a:hover {
-    color: #f44336;
+    color: #03a9f4;
 }
 
 
@@ -307,14 +307,14 @@ Portfolio Card Style
     color: #202020;
 }
 .portfolio-item .card .card-title i {
-    color: #f44336;
+    color: #03a9f4;
     line-height: 30px;
 }
 .portfolio-item .card .card-content p a{
     color: #999;
 }
 .portfolio-item .card .card-content p a:hover{
-    color: #f44336;
+    color: #03a9f4;
 }
 
 .portfolio-item .card .card-reveal {
@@ -375,7 +375,7 @@ Portfolio Single Page
 }
 
 .boot-slider .carousel-control:hover {
-    color: #f44336;
+    color: #03a9f4;
     background-color: #fff;
     border: 1px solid transparent;
 }
@@ -413,7 +413,7 @@ Portfolio Single Page
     color: #a7a7a7;
 }
 .portfolio-meta li a:hover {
-    color: #f44336;
+    color: #03a9f4;
 }
 
 

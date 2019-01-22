@@ -21,7 +21,7 @@ Footer
 }
 .copy-text,
 .copy-text a:hover{
-    color: #999;
+    color: #f44336;
 }
 
 /*
@@ -67,7 +67,7 @@ Social Link Widget
 }
 
 .social-link li a i:hover {
-    color: #f44336 ;
+    color: #03a9f4 ;
     background: #fff;
 }
 
@@ -76,7 +76,7 @@ Social Link Widget
 }
 .social-link.dark li a i:hover {
     color: #fff ;
-    background: #f44336;
+    background: #03a9f4;
 }
 
 
@@ -151,7 +151,7 @@ Subscription Widget
 .primary-footer .form-group input[type="text"],
 .primary-footer .form-group input[type="email"] {
     color: #c9f0ff;
-    background-color: #f44336;
+    background-color: #0288d1;
     width: 76%;
     float: left;
 }
@@ -175,7 +175,7 @@ Subscription Widget
     background: #fff;
     border: 1px solid transparent;
     height: 40px;
-    color: #f44336;
+    color: #0288d1;
 }
 .primary-footer .form-group button i {
     width: 100%;
@@ -198,7 +198,7 @@ Tag Cloud Widget
 }
 .widget-tags a:hover {
     color: #fff;
-    background-color: #f44336;
+    background-color: #0288d1;
     border: 1px solid transparent;
 }
 
@@ -378,7 +378,7 @@ Footer 5
 }
 .footer-five .social-link li a i:hover {
     color: #fff;
-    background: #f44336;
+    background: #03a9f4;
 }
 
 
@@ -405,7 +405,7 @@ Footer 5
     color: #898989;
 }
 .footer-five .copy-text a {
-    color: #f44336;
+    color: #03a9f4;
 }
 
 .footer-five .secondary-footer ul {
@@ -422,7 +422,7 @@ Footer 5
     text-transform: capitalize;
 }
 .footer-five .secondary-footer ul li a:hover {
-    color: #f44336;
+    color: #03a9f4;
 }
 
 @media screen and (max-width: 991px) {

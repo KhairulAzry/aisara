@@ -1,49 +1,34 @@
 <!--header start-->
-<header id="header" class="tt-nav">
+<header id="header" class="tt-nav transparent-header nav-border-bottom">
 
-    <div class="header-sticky light-header nav-boxed-color">
+    <div class="header-sticky light-header">
 
         <div class="container">
+
             <div id="materialize-menu" class="menuzord">
 
                 <!--logo start-->
-                <a href="index.html" class="logo-brand">
-                    <img class="retina" src="assets/img/logo.png" alt=""/>
+                <a href="/" class="logo-brand">
+                    <img src="assets/img/logo.png" alt=""/>
                 </a>
                 <!--logo end-->
 
-                <!-- onepage menu start-->
-                <ul class="nav menuzord-menu pull-right op-nav">
-                    <li>
-                        <a href="#home" data-scroll>Home</a>
-                    </li>
-                    <li>
-                        <a href="/#about" data-scroll>About</a>
-                    </li>
-                    <li>
-                        <a href="/#download" data-scroll>Download</a>
-                    </li>
-                    <li>
-                        <a href="/#features" data-scroll>Features</a>
-                    </li>
-                    <li>
-                        <a href="/#pricing" data-scroll>Pricing</a>
-                    </li>
-                    <li>
-                        <a href="/#info" data-scroll>Info</a>
-                    </li>
-                    <li>
-                        <a href="/#case-studies">Case Studies</a>
-                    </li>
-                    <li>
-                        <a href="/#contact" data-scroll>Contact</a>
-                    </li>
+                <!-- menu start-->
+                <ul class="menuzord-menu pull-right light">
+                    <li {% if page.title == "Home"%} class="active" {% endif %}><a href="/">Home</a></li>
+                    <li {% if page.title == "About"%} class="active" {% endif %}><a href="/about">About</a></li>
+                    <li {% if page.title == "Features"%} class="active" {% endif %}><a href="#">Features</a></li>
+                    <li {% if page.title == "AiSara Excel"%} class="active" {% endif %}><a href="#">AiSara Excel</a></li>
+                    <li {% if page.title == "Download"%} class="active" {% endif %}><a href="#">Download</a></li>
+                    <li {% if page.title == "Case Studies"%} class="active" {% endif %}><a href="#">Case Studies</a></li>
+                    <li {% if page.title == "Pricing"%} class="active" {% endif %}><a href="#">Pricing</a></li>
+                    <li {% if page.title == "Frequently Asked Questions"%} class="active" {% endif %}><a href="/faq">FAQ</a></li>
+                    <li {% if page.title == "Contact Us"%} class="active" {% endif %}><a href="#">Contact Us</a></li>
                 </ul>
-                <!-- onepage menu end-->
+                <!-- menu end-->
 
             </div>
         </div>
     </div>
-
 </header>
 <!--header end-->
