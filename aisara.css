@@ -17,6 +17,10 @@
     background-image: url("assets/img/aisarabg.jpg");  
 }
 
+.aisara-banner-overlay{
+  background-image: url("assets/img/aisarabg-overlay.jpg");
+}
+
 /* -------- Pricing Table -------- */
 .pricing-table:hover .aisara-tb-hover {
     /*background-color: #03a9f4;*/
@@ -38,4 +42,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.aisara-excel-img {
+	height: 80px;
+	width: auto;
 }
