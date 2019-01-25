@@ -6,6 +6,7 @@ Promo Box
     padding: 40px;
     display: block;
     width: 100%;
+    border-radius: 10px;
 }
 
 .promo-box,
@@ -30,7 +31,7 @@ Promo Box
 
 
 .promo-info .promo-icon {
-    background-color: #f44336;
+    background-color: #03a9f4;
     width: 73px;
     height: 73px;
     color: #fff;

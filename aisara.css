@@ -1,0 +1,50 @@
+/* -------- Main Color -------- */
+.aisara-red{
+	color: #f44336;
+}
+
+/* -------- Gradient Background -------- */
+.aisara-bg{
+  background-image: linear-gradient(60deg, #f44336, #FF7373, #f44336) !important;
+}
+.aisara-hover:hover {
+	background-image: linear-gradient(60deg, #f44336, #FF7373, #f44336) !important; 
+    color: #fff;
+}
+
+/* -------- Hero Background -------- */
+.aisara-banner {
+    background-image: url("assets/img/aisarabg.jpg");  
+}
+
+.aisara-banner-overlay{
+  background-image: url("assets/img/aisarabg-overlay.jpg");
+}
+
+/* -------- Pricing Table -------- */
+.pricing-table:hover .aisara-tb-hover {
+    /*background-color: #03a9f4;*/
+    background-image: linear-gradient(60deg, #f44336, #FF7373, #f44336) ; 
+    color: #fff;
+}
+
+/* -------- Features Table -------- */
+@media (min-width: 992px) {
+  .equal-height-row {
+    display: flex;
+    flex-flow: row;
+  }
+}
+.equal-height-row .promo-box-wrapper {
+  display: flex;
+}
+.equal-height-row .promo-box-wrapper .promo-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aisara-excel-img {
+	height: 80px;
+	width: auto;
+}
